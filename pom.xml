@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.behalf</groupId>
     <artifactId>force-rest-api</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <name>force-rest-api</name>
     <url>https://github.com/jesperfj/force-rest-api</url>
     <description>
